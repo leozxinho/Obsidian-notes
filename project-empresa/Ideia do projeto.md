@@ -30,7 +30,7 @@ A estrutura esta básico ainda, conforme o projeto for se desenvolvendo, será a
 > 
 > Fluxo de Acesso e Lógica
 > 1. O usuário acessa a **Página 0 (Login)**.
-> 2. O sistema verifica se o login é de colaborador → redireciona para **Página 1**. Se o login é de cliente final (usuário com CNPJ/CPF) → redireciona para a **Página 2** correspondente.
+> 2. O sistema verifica se o login é de colaborador → redireciona para **Página 1**. Se o login é de cliente final (usuário com CNPJ/CPF) → redireciona para a **Página 2** correspondente. Se o login é de consumidor, a tela de login será isolado.
 > 3. Após o login, a navegação fica restrita conforme o tipo de usuário. 
 
 ---
