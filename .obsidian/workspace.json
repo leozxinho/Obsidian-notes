@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servidor/RSYNC.md",
+                "file": "project-empresa/Ideia do projeto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSYNC"
-            }
-          },
-          {
-            "id": "91dbdb24918a54a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Account.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Account"
-            }
-          },
-          {
-            "id": "76404025ed2c5460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "studySymfony/Instalação.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instalação"
+              "title": "Ideia do projeto"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,20 +177,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f30037c424a1b8a",
+  "active": "d4b34887f5bc1049",
   "lastOpenFiles": [
-    "studySymfony/Instalação.md",
+    "servidor-linux/RSYNC.md",
+    "project-empresa/Ideia do projeto.md",
+    "project-empresa",
     "Clippings/Account.md",
+    "study PHP-Symfony-Twig/Instalação.md",
     "Clippings",
-    "studySymfony/Anotações Twig.md",
-    "studySymfony/Anotações symfony.md",
-    "studySymfony/Anotações PHP.md",
-    "Servidor/Introdução.md",
-    "Servidor/Comandos servidores.md",
-    "Servidor/RSYNC.md",
-    "studySymfony",
+    "study PHP-Symfony-Twig/Anotações Twig.md",
+    "study PHP-Symfony-Twig/Anotações symfony.md",
+    "study PHP-Symfony-Twig/Anotações PHP.md",
+    "servidor-linux/Introdução.md",
+    "servidor-linux/Comandos servidores.md",
+    "study PHP-Symfony-Twig",
     "Desenvolvimento de Sistemas Web (PR1 -Pratica).md",
-    "Servidor",
+    "servidor-linux",
     "teste2",
     "teste",
     "Obsidian-notes",
