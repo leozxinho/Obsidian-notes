@@ -27,17 +27,11 @@ A proposta é desenvolver uma plataforma de vendas online voltada para empresas 
     - Autenticação em dois fatores (2FA)
     - Recuperação de senha por e-mail/SMS
     - Rate limit para tentativas de login
----
 
-> [!note]
-> Talvez será usado essa logica, deixando apenas registrado 👇👇
-> 
-> Fluxo de Acesso e Lógica
-> 1. O usuário acessa a **Página 0 (Login)**.
-> 2. O sistema verifica se o login é de colaborador → redireciona para **Página 1**. Se o login é de cliente final (usuário com CNPJ/CPF) → redireciona para a **Página 2** correspondente. Se o login é de consumidor, a tela de login será isolado.
-> 3. Após o login, a navegação fica restrita conforme o tipo de usuário. 
+Lógica da Tela de login: [[Lógica da Tela de login]]
 
 ---
+
 ### 🌐 Estrutura da Aplicação Web
 
 #### **🔹 Página 1 – Painel Administrativo (Admin)**
