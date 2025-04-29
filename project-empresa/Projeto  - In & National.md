@@ -84,7 +84,7 @@ Acesso painel de cliente:
 #### **🛒 Página 3 – Portal do Consumidor**
 
 
-Essa página será gerada automaticamente, com um botão "Liberar para consumidor" na Página 2.
+>Essa página será gerada automaticamente, com um botão "Liberar para consumidor" na Página 2.
 
 
 **Funcionalidades básicas da página do consumidor**
