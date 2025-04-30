@@ -11,14 +11,10 @@
             "id": "d4b34887f5bc1049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project-empresa/Teste.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Teste"
+              "title": "Nova aba"
             }
           }
         ]
@@ -177,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f30037c424a1b8a",
+  "active": "deb35afcf94fc1c8",
   "lastOpenFiles": [
     "project-empresa/Projeto - In & National.md",
     "project-empresa/Teste.md",
