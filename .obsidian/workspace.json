@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "856c6ec717ffa466",
+        "id": "e3acb54a98c1f22e",
         "type": "tabs",
         "children": [
           {
-            "id": "f8fe4c98efdb9ad3",
+            "id": "d4b34887f5bc1049",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0928b396e7536b7",
@@ -178,27 +177,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8fe4c98efdb9ad3",
+  "active": "d4b34887f5bc1049",
   "lastOpenFiles": [
-    "note.md",
-    "study PHP-Symfony-Twig/Anotações symfony.md",
     "project-empresa/Lógica da Tela de login.md",
-    "project-empresa/Teste.md",
+    "servidor-linux-job/RSYNC.md",
+    "servidor-linux-job/Introdução.md",
+    "servidor-linux-job/Comandos servidores.md",
+    "servidor-linux-job",
     "project-empresa/Projeto - In & National.md",
     "Outro Arquivo.md",
     "project-empresa/Banco de dados.md",
-    "servidor-linux-job/RSYNC.md",
+    "servidor-linux/RSYNC.md",
     "project-empresa",
     "Clippings/Account.md",
     "study PHP-Symfony-Twig/Instalação.md",
     "Clippings",
     "study PHP-Symfony-Twig/Anotações Twig.md",
+    "study PHP-Symfony-Twig/Anotações symfony.md",
     "study PHP-Symfony-Twig/Anotações PHP.md",
-    "servidor-linux-job/Introdução.md",
-    "servidor-linux-job/Comandos servidores.md",
+    "servidor-linux/Introdução.md",
+    "servidor-linux/Comandos servidores.md",
     "study PHP-Symfony-Twig",
     "Desenvolvimento de Sistemas Web (PR1 -Pratica).md",
-    "servidor-linux-job",
+    "servidor-linux",
     "teste2",
     "teste",
     "Obsidian-notes",
