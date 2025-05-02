@@ -11,17 +11,17 @@ Permitir o acesso seguro à aplicação, respeitando as permissões e comportame
        - **Segurança:** Alta — exige login completo, 2FA, e rate limit.
        - **Comportamento após login:** É redirecionado diretamente para o painel administrativo. 
     - <font color="#0070c0">Cliente:</font>
-     - **Quem é**: Pessoa que possui cadastro e interage com a empresa (ex: compras, contratos, suporte).
-     - **Acesso**: **Restrito** — precisa de login para acessar o “painel do cliente”.
-     - **Áreas permitidas**: `/cliente`, `/perfil`, `/pedidos-consumidor`, etc.
-     - **Segurança**: Exige login, senha forte e pode ter 2FA opcional.
-     - **Comportamento após login**: Redirecionado para sua área pessoal.
+      - **Quem é**: Pessoa que possui cadastro e interage com a empresa (ex: compras, contratos, suporte).
+      - **Acesso**: **Restrito** — precisa de login para acessar o “painel do cliente”.
+      - **Áreas permitidas**: `/cliente`, `/perfil`, `/pedidos-consumidor`, etc.
+      - **Segurança**: Exige login, senha forte e pode ter 2FA opcional.
+      - **Comportamento após login**: Redirecionado para sua área pessoal.
     - <font color="#0070c0">Consumidor (Visitante)</font>
-     - **Quem é**: Qualquer usuário que navega no site sem se identificar.
-     - **Acesso**: **Livre**, com login **obrigatório** até o momento da compra.
-     - **Áreas permitidas**: Produtos, páginas públicas, blog, etc.
-     - **Segurança**: Básica — login só exigido no carrinho/checkout.
-     - **Comportamento após login**: Volta para o ponto da jornada (ex: checkout).
+      - **Quem é**: Qualquer usuário que navega no site sem se identificar.
+      - **Acesso**: **Livre**, com login **obrigatório** até o momento da compra.
+      - **Áreas permitidas**: Produtos, páginas públicas, blog, etc.
+      - **Segurança**: Básica — login só exigido no carrinho/checkout.
+      - **Comportamento após login**: Volta para o ponto da jornada (ex: checkout).
 
 
 **Objetivos — Tela de login**
