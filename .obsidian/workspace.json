@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study PHP-Symfony-Twig/Anotações symfony.md",
-                "mode": "source",
+                "file": "project-empresa/Document.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anotações symfony"
+              "title": "Document"
             }
           }
         ]
@@ -179,12 +179,15 @@
   },
   "active": "d4b34887f5bc1049",
   "lastOpenFiles": [
+    "study PHP-Symfony-Twig/Anotações Twig.md",
+    "project-empresa/Document.md",
     "project-empresa/Lógica da Tela de login.md",
+    "project-empresa/Projeto - In & National.md",
+    "study PHP-Symfony-Twig/Anotações symfony.md",
     "servidor-linux-job/RSYNC.md",
     "servidor-linux-job/Introdução.md",
     "servidor-linux-job/Comandos servidores.md",
     "servidor-linux-job",
-    "project-empresa/Projeto - In & National.md",
     "Outro Arquivo.md",
     "project-empresa/Banco de dados.md",
     "servidor-linux/RSYNC.md",
@@ -192,8 +195,6 @@
     "Clippings/Account.md",
     "study PHP-Symfony-Twig/Instalação.md",
     "Clippings",
-    "study PHP-Symfony-Twig/Anotações Twig.md",
-    "study PHP-Symfony-Twig/Anotações symfony.md",
     "study PHP-Symfony-Twig/Anotações PHP.md",
     "servidor-linux/Introdução.md",
     "servidor-linux/Comandos servidores.md",
