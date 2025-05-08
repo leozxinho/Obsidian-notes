@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project-empresa/Document.md",
+                "file": "study PHP-Symfony-Twig/Anotações PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Document"
+              "title": "Anotações PHP"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f0928b396e7536b7",
@@ -180,14 +179,14 @@
   },
   "active": "d4b34887f5bc1049",
   "lastOpenFiles": [
-    "study PHP-Symfony-Twig/Anotações Twig.md",
+    "servidor-linux-job/Comandos servidores.md",
     "project-empresa/Document.md",
+    "study PHP-Symfony-Twig/Anotações Twig.md",
     "project-empresa/Lógica da Tela de login.md",
     "project-empresa/Projeto - In & National.md",
     "study PHP-Symfony-Twig/Anotações symfony.md",
     "servidor-linux-job/RSYNC.md",
     "servidor-linux-job/Introdução.md",
-    "servidor-linux-job/Comandos servidores.md",
     "servidor-linux-job",
     "Outro Arquivo.md",
     "project-empresa/Banco de dados.md",

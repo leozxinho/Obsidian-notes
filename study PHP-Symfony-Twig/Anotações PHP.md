@@ -1,4 +1,7 @@
 
+extensão vscode: <font color="#f79646">PHP IntelliSense</font>
+
+
 Sintaxe básica PHP:
 
 	Tipos de dados: ['string','int','float','bool','array','objetct','null']
